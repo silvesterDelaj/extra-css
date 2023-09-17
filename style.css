@@ -1,0 +1,51 @@
+#header{
+    height: 400px;
+    background-image: url(./header.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+#title{
+height: 70px;
+}
+
+.bg-grey{
+    background-color: grey;
+}
+
+#list-features{
+    color: white;
+    list-style: square;
+}
+
+.font-blue{
+    color: blue;
+    text-decoration: underline;
+}
+
+h1{
+    text-transform: capitalize;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+.yellow-marker{
+    background-color: yellow;
+}
+
+.green-marker{
+    background-color: green;
+    color: white;
+}
+
+#tate-1{
+    height: 300px;
+    vertical-align: middle;
+}
+
+#tate-2{
+    height: 400px;
+    vertical-align: top;
+}
